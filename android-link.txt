@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dog-placed-ton-should.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://jean-matches-fixes-katrina.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-27 08:03:45 UTC
+Created   : 2026-08-27 20:21:46 UTC
 =======================================================
