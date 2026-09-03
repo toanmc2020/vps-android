@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coupled-memories-barely-treasures.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://mph-telecharger-definitely-jackets.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 14:24:30 UTC
+Created   : 2026-09-03 18:34:57 UTC
 =======================================================
