@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://knowledgestorm-endangered-bumper-chance.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://mega-asin-excess-courier.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-09 09:37:31 UTC
+Created   : 2026-09-09 14:25:19 UTC
 =======================================================
