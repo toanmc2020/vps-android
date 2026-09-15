@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://educational-custom-kodak-hewlett.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://translator-everywhere-minimal-owen.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-15 10:00:08 UTC
+Created   : 2026-09-15 14:53:07 UTC
 =======================================================
