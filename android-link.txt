@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intense-aberdeen-volume-sept.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://ministry-single-gains-directed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-25 10:12:57 UTC
+Created   : 2026-09-25 19:20:20 UTC
 =======================================================
