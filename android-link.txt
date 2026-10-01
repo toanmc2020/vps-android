@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://impossible-tension-img-apparel.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://gray-bishop-tops-caused.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-01 11:36:02 UTC
+Created   : 2026-10-01 20:21:17 UTC
 =======================================================
