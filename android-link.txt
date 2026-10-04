@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reprint-peoples-sunrise-holidays.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://revealed-military-turtle-henry.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-04 18:44:04 UTC
+Created   : 2026-10-04 23:00:09 UTC
 =======================================================
