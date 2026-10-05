@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://poetry-lab-picks-dayton.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://pursuant-viewpicture-lodge-reuters.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-05 12:16:06 UTC
+Created   : 2026-10-05 22:02:47 UTC
 =======================================================
