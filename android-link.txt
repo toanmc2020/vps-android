@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://composite-sean-sku-facial.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://clark-binary-curve-firms.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-12 13:00:16 UTC
+Created   : 2026-10-12 22:35:44 UTC
 =======================================================
