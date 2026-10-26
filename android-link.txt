@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://modified-helicopter-make-benefit.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://qld-blocks-flyer-federation.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-25 22:31:58 UTC
+Created   : 2026-10-26 03:45:05 UTC
 =======================================================
