@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lime-worldwide-avatar-difficulty.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://valve-undertaken-paid-xbox.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-28 11:12:31 UTC
+Created   : 2026-10-28 20:17:25 UTC
 =======================================================
